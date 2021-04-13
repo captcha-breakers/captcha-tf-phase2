@@ -9,6 +9,9 @@
 ## CNN model for generated captchas with generated dataset
 <img src="./help/1.png" />
 
+## CNN model for generated salt-n-pepper captchas with generated dataset
+<img src="./help/4.png" />
+
 # Datasets
 
 ## [captcha-breakers/D-training-segmentation](https://github.com/captcha-breakers/D-training-segmentation)

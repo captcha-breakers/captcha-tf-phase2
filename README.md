@@ -6,11 +6,14 @@
 ## CNN model for **rdmpage** dataset with **chars74K**
 <img src="./help/3.png" />
 
-## CNN model for generated captchas with generated dataset
+## CNN model for generated captchas with generated training dataset
 <img src="./help/1.png" />
 
-## CNN model for generated salt-n-pepper captchas with generated dataset
+## CNN model for generated salt-n-pepper captchas with generated training dataset
 <img src="./help/4.png" />
+
+## SVM sklearn model for generated captchas & generated salt-n-pepper captchas with generated training dataset
+<img src="./help/5.png" />
 
 # Datasets
 

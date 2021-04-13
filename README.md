@@ -16,3 +16,7 @@
 ## [captcha-breakers/D-captchas-simple-uppercase](https://github.com/captcha-breakers/D-captchas-simple-uppercase)
 
 ## [captcha-breakers/D-captchas-pycaptcha](https://github.com/captcha-breakers/D-captchas-pycaptcha)
+
+## Helpful resources
+ - https://www.tensorflow.org/tutorials/keras/classification
+ - https://www.tensorflow.org/api_docs/python/tf/keras/Model

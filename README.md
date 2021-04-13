@@ -8,3 +8,11 @@
 
 ## CNN model for generated captchas with generated dataset
 <img src="./help/1.png" />
+
+# Datasets
+
+## [captcha-breakers/D-training-segmentation](https://github.com/captcha-breakers/D-training-segmentation)
+
+## [captcha-breakers/D-captchas-simple-uppercase](https://github.com/captcha-breakers/D-captchas-simple-uppercase)
+
+## [captcha-breakers/D-captchas-pycaptcha](https://github.com/captcha-breakers/D-captchas-pycaptcha)
